@@ -23,10 +23,10 @@ if uploaded_files:
             try:
                 prediction = predict(image_path)
                 st.info(prediction)
-                st.write("Model can make mistake!!")
             except Exception as e:
                 st.error(f"Prediction error: {e}")
 
+st.caption("Model can make Mistake")
 
 
 
