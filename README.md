@@ -71,9 +71,11 @@ streamlit run app.py
 
 ## Screenshots
 ![](Screenshots/img1.png)
+
 Model shows Rear Crushed damage.
 ---
 ![](Screenshots/img2.png)
+
 Model shows Front Breakage damage.
 ---
 
