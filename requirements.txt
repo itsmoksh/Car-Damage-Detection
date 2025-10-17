@@ -1,0 +1,7 @@
+streamlit==1.46.0
+torch==2.8.0
+torchvision==0.23.0
+scikit-learn==1.6.1
+matplotlib==3.10.1
+matplotlib-inline==0.1.7
+
