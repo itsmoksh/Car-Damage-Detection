@@ -82,7 +82,7 @@ Model shows Front Breakage damage.
 ## Live App
 
 Check out the **live demo**:  
-[Streamlit Cloud Link](#) *(https://car-damage-detection-kbb9n2acbfmrcx3fqe7rlc.streamlit.app/)*
+[Streamlit Cloud Link](#) *(https://moksh-dl-car-damage-detection.streamlit.app/)*
 
 ##  Author
 
